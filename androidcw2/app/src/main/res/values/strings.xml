@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="button1">Register Movie</string>
+    <string name="button2">Display Movies</string>
+    <string name="button3">Favourites</string>
+    <string name="button4">Edit Movies</string>
+    <string name="button5">Search</string>
+    <string name="button6">Ratings</string>
+</resources>
